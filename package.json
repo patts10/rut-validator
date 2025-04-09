@@ -1,5 +1,5 @@
 {
-  "name": "chilean-rut-validator",
+  "name": "cl-rut-validator",
   "version": "1.0.0",
   "description": "A validator for Chilean RUT (Rol Único Tributario) numbers",
   "main": "index.js",
