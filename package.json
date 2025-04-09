@@ -21,10 +21,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jomendev/validate-chilean-rut"
+    "url": "https://github.com/patts10/rut-validator"
   },
   "bugs": {
-    "url": "https://github.com/jomendev/validate-chilean-rut/issues"
+    "url": "https://github.com/patts10/rut-validator/issues"
   },
-  "homepage": "https://github.com/jomendev/validate-chilean-rut#readme"
+  "homepage": "https://github.com/patts10/rut-validatort#readme"
 }
