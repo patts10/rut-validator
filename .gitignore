@@ -1,3 +1,18 @@
+# Source
+src/
+tests/
+coverage/
+.github/
+.vscode/
+.editorconfig
+.eslintrc
+.prettierrc
+jest.config.js
+tsconfig.json
+*.tgz
+.npmignore
+.gitignore
+
 node_modules
 .DS_Store
 package-lock.json
