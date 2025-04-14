@@ -38,7 +38,6 @@ describe('Chilean RUT Validator', () => {
     '12.345.678..5' // Incorrect format
   ]
 
-  // Additional type test data for TypeScript
   const nonStringInputs: unknown[] = [
     null,
     undefined,
